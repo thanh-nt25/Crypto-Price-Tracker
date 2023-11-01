@@ -9,8 +9,8 @@ A real-time mobile application cryptocurrencies price tracker with charts using 
 
 ## DEMO
 <p float="left">
-<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-pic.PNG" width=50%/>
-<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-pic2.PNG" width=50%/>
+<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-pic.PNG" width=49%/>
+<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-pic2.PNG" width=49%/>
 </p>
 <img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-web.png">
 
