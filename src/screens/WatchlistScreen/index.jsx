@@ -4,7 +4,7 @@ import { View, Text } from "react-native";
 const WatchlistScreen = () => {
     return (
         <View>
-            <Text style={{ color: 'white' }}>Hello wathlist</Text>
+            <Text style={{ color: 'white' }}>This is watchlist</Text>
         </View>
     );
 };
