@@ -13,9 +13,11 @@
     "@rainbow-me/animated-charts": "^1.0.0-alpha.6",
     "@react-navigation/native": "^6.0.8",
     "@react-navigation/native-stack": "^6.5.1",
+    "axios": "^0.24.0",
     "expo": "^47.0.0",
     "expo-status-bar": "~1.4.2",
     "expo-updates": "^0.15.6",
+    "nodemon": "^3.0.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-native": "^0.70.8",
@@ -29,4 +31,3 @@
   },
   "private": true
 }
-

@@ -1,8 +1,9 @@
-import React from "react";
+import React, { useEffect } from "react";
 import { Text, View, Image, Pressable } from "react-native";
 import { AntDesign } from "@expo/vector-icons";
 import styles from "./styles";
 import { useNavigation } from "@react-navigation/native";
+
 
 const CoinItem = ({ marketCoin }) => {
   const {
