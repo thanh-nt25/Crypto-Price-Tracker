@@ -8,34 +8,28 @@ A real-time mobile application cryptocurrencies price tracker with charts using 
 	
 
 ## DEMO
+**Real-time data**
+As we can see, the application data and data from CoinGecgo's website are in sync, specifically here is the "Price" data field.
 <p float="left">
-<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-pic.PNG" width=49%/>
-<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-pic2.PNG" width=49%/>
+<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-pic.PNG" width=33%/>
+<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-pic2.PNG" width=33%/>
 </p>
 <img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-web.png">
 
+**Refresh Data**
+Swipe down the screen to refresh data.
+<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/reload-video.gif" title="ref" width=33%/>
 
-
-<!-- **Onboarding: Sign Up and Log In**
-
+**Home Screen & Navigation**
 <p float="left">
-	<img src="https://github.com/thanh-nt25/Louvre/blob/master/client/demo/home.PNG" title="Home" width="250"/>
-	<img src="https://github.com/thanh-nt25/Louvre/blob/master/client/demo/signin.PNG" title="Sign In" width="250"/>
-	<img src="https://github.com/thanh-nt25/Louvre/blob/master/client/demo/signup.PNG" title="Sign Up" width="250"/>
+	<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-pic.PNG" title="Home" width="250"/>
+	<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/home-video.gif" title="Home" width="250"/>
+	<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/navi.gif" title="Home" width="250"/>
 </p>
 
-<p></p>
-
-**Buyers' User-Interface**
-
+**Item Detail View & Chart**
 <p float="left">
-	<img src="https://github.com/thanh-nt25/Louvre/blob/master/client/demo/homenavi.gif" title="Home Screen" width="250"/>
-	<img src="https://github.com/thanh-nt25/Louvre/blob/master/client/demo/search.gif" title="Search Filter" width="250"/>
-	<img src="https://github.com/thanh-nt25/Louvre/blob/master/client/demo/detail.gif" title="Item Detail View" width="250"/>
+	<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/detail-pic.PNG" title="Home" width="250"/>
+	<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/detail-video.gif" title="Home" width="250"/>
+	<img src="https://github.com/thanh-nt25/Crypto-Price-Tracker/blob/master/src/demo/navi.gif" title="Home" width="250"/>
 </p>
-
-
-<p float="left">
-	<img src="https://github.com/thanh-nt25/Louvre/blob/master/client/demo/side.gif" title="Item Detail View" width="250"/>
-	<img src="https://github.com/thanh-nt25/Louvre/blob/master/client/demo/cart.gif" title="Cart View" width="250"/>
-</p> -->
