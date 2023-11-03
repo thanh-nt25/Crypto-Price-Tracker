@@ -3,7 +3,7 @@ A real-time mobile application cryptocurrencies price tracker with charts using 
 
 ## Tech Stack
 
-    - Front-end: React Native,Rainbow.me,Chart.js, Expo, Axios.
+    - Front-end: React Native, Rainbow.me, Chart.js, Expo, Axios.
 	- API: CoinGekoAPI
 	
 
